@@ -154,6 +154,102 @@
             </div>
             </div>
           </div>
+    <!-- ======= Pricing ======= -->
+    <div class="demo">
+      <div class="container">
+          <div class="row text-center">
+              <h1 class="heading-title">Price Lists</h1>
+          </div>
+
+          <div class="row">
+              <div class="col-md-4 col-sm-6">
+                  <div class="pricingTable">
+                      <div class="pricingTable-header">
+                          <h3 class="heading">A Day</h3>
+                          <span class="subtitle">1 Day Hire</span>
+                          <div class="price-value">35
+                              <span class="currency">$</span>
+                              <span class="month">/d</span>
+                          </div>
+                      </div>
+                      <ul class="pricing-content">
+                        <li>1 Person Perfossional Villa Manager</li>
+                          <li>Handle Check-in & Check-out</li>
+                          <li>Handle your e-commerce</li>
+                          <li>Customer Service & Reviews</li>
+                          <li>Handle your social media</li>
+                          <li>Listing Management, Staff Management, Inventory Management, Reporting </li>
+                      </ul>                        
+                      <a href="https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-7BD92500F0256021JMUJNSLI" class="read">Subscribe<i class="fa fa-angle-right"></i></a>
+                  </div>
+              </div>
+
+              <div class="col-md-4 col-sm-6">
+                  <div class="pricingTable">
+                      <div class="pricingTable-header">
+                          <h3 class="heading">Weekly</h3>
+                          <span class="subtitle">1 Weekly Hire</span>
+                          <div class="price-value">235
+                              <span class="currency">$</span>
+                              <span class="month">/w</span>
+                          </div>
+                      </div>
+                      <ul class="pricing-content">
+                          <li>1 Person Perfossional Villa Manager</li>
+                          <li>Weekly Reporting</li>
+                          <li>Handle Check-in & Check-out</li>
+                          <li>Customer Service Offline/Online</li>
+                          <li>Listing Management and More</li>
+                      </ul>
+                      <a href="https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-1MD81474TE0295251MUJNTNI" class="read">Subscribe<i class="fa fa-angle-right"></i></a>
+                    </div>
+              </div>
+
+              <div class="col-md-4 col-sm-6">
+                  <div class="pricingTable">
+                      <div class="pricingTable-header">
+                          <h3 class="heading">Monthly</h3>
+                          <span class="subtitle"></span>
+                          <div class="price-value">990
+                              <span class="currency">$</span>
+                              <span class="month">/mo</span>
+                          </div>
+                      </div>
+                      <ul class="pricing-content">
+                          <li>1 Person Perfossional Villa Manager</li>
+                          <li>Monthly Reporting</li>
+                          <li>Handle Check-in & Check-out</li>
+                          <li>Customer Service Offline/Online</li>
+                          <li>Client Engagement, And More</li>
+                      </ul>
+                      <div id="paypal-button-container-P-25D37855WP058153WMUJNULA"></div>
+                      <script src="https://www.paypal.com/sdk/js?client-id=AWvDVYhlvtGUF69IhGMc3JOM7Gu1XEGfXAniTFr5XDMugFwoTRKBSw0lGRM9KPqfGSS_Drcv-D6US7V4&vault=true&intent=subscription" data-sdk-integration-source="button-factory"></script>
+                      <script>
+                        paypal.Buttons({
+                            style: {
+                                shape: 'rect',
+                                color: 'gold',
+                                layout: 'vertical',
+                                label: 'subscribe'
+                            },
+                            createSubscription: function(data, actions) {
+                              return actions.subscription.create({
+                                /* Creates the subscription */
+                                plan_id: 'P-25D37855WP058153WMUJNULA'
+                              });
+                            },
+                            onApprove: function(data, actions) {
+                              alert(data.subscriptionID); // You can add optional success message for the subscriber here
+                            }
+                        }).render('#paypal-button-container-P-25D37855WP058153WMUJNULA'); // Renders the PayPal button
+                      </script>
+                       </div>
+              </div>
+          </div>
+      </div>
+  </div>
+  
+<!-- End Price Section -->
 
 <h3><strong> Elevate Your Bali Villa Experience with Love Bali Villas' Freelance Villa Managers </strong> </h3>
           <p>
