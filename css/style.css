@@ -762,7 +762,7 @@ button:focus {
 }
 
 .accomodation_item .hotel_img {
-  position: relative;
+  position: absolute;
   margin-bottom: 10px;
   overflow: hidden;
   border-radius: 10px;
