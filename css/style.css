@@ -87,7 +87,7 @@ body {
   font-size: 14px;
   font-family: "Poppins", sans-serif;
   font-weight: 300;
-  color: #777777;
+  color: #080808;
 }
 
 section {
@@ -143,7 +143,7 @@ button:focus {
 .section_title p {
   font-size: 14px;
   line-height: 30px;
-  color: #777777;
+  color: #080808;
   margin-bottom: 0px;
 }
 
@@ -422,7 +422,7 @@ button:focus {
 
 .navbar .menu_nav .nav-item.submenu ul .nav-item .nav-link {
   line-height: 45px;
-  color: #222222;
+  color: #050505;
   padding: 0px 30px;
   -webkit-transition: all 150ms linear;
   -o-transition: all 150ms linear;
@@ -455,7 +455,7 @@ button:focus {
 }
 
 .menu_two {
-  background: rgba(255, 255, 255, 0.15);
+  background: rgba(2, 2, 2, 0.15);
 }
 
 .menu_two .menu_nav .nav-item .nav-link {
@@ -586,7 +586,7 @@ button:focus {
 }
 
 .book_tabel_item .form-group .input-group .form-control {
-  border: 1px solid #2b3146;
+  border: 1px solid #020202;
   background: transparent;
   border-radius: 0px;
   font-size: 13px;
@@ -597,19 +597,19 @@ button:focus {
 }
 
 .book_tabel_item .form-group .input-group .form-control.placeholder {
-  color: #777777;
+  color: #050505;
 }
 
 .book_tabel_item .form-group .input-group .form-control:-moz-placeholder {
-  color: #777777;
+  color: #030303;
 }
 
 .book_tabel_item .form-group .input-group .form-control::-moz-placeholder {
-  color: #777777;
+  color: #0e0d0d;
 }
 
 .book_tabel_item .form-group .input-group .form-control::-webkit-input-placeholder {
-  color: #777777;
+  color: #080808;
 }
 
 .book_tabel_item .form-group .input-group .form-control:focus {
@@ -628,7 +628,7 @@ button:focus {
   -webkit-transform: translateY(-50%);
   -ms-transform: translateY(-50%);
   transform: translateY(-50%);
-  color: #777777;
+  color: #070707;
   z-index: 2;
 }
 
@@ -643,14 +643,14 @@ button:focus {
   font-size: 13px;
   line-height: 40px;
   height: 40px;
-  color: #777;
+  color: #070707;
 }
 
 .book_tabel_item .nice-select:after {
   content: "\e874";
   font-family: 'Linearicons-Free';
   font-size: 13px;
-  color: #777777;
+  color: #070707;
   border: 0px;
   top: 0;
   margin-top: 0px;
@@ -834,7 +834,7 @@ button:focus {
 }
 
 .facilities_item {
-  border: 1px solid #777777;
+  border: 1px solid #050505;
   border-radius: 10px;
   background-color: rgba(249, 249, 255, 0.102);
   padding: 31px 40px 37px;
@@ -925,7 +925,7 @@ button:focus {
 }
 
 .faq .faq-list a.collapsed {
-  color: #343a40;
+  color: #050505;
 }
 
 .faq .faq-list a.collapsed:hover {
@@ -1022,7 +1022,7 @@ button:focus {
 }
 
 .testimonial_slider .testimonial_item p {
-  color: #8c8d9e;
+  color: #0a0a0a;
   font-size: 14px;
   line-height: 24px;
   margin-bottom: 0px;
@@ -1118,7 +1118,7 @@ button:focus {
   display: inline-block;
   padding: 1px 18px;
   text-align: center;
-  color: #222222;
+  color: #030303;
 }
 
 .tags .tag_btn:before {
@@ -1151,7 +1151,7 @@ button:focus {
   left: 20px;
   right: 20px;
   bottom: 20px;
-  background: rgba(34, 34, 34, 0.8);
+  background: rgba(8, 8, 8, 0.8);
   color: #fff;
   -webkit-transition: all 0.3s linear;
   -o-transition: all 0.3s linear;
@@ -1220,7 +1220,7 @@ button:focus {
 
 .blog_info .blog_meta li a {
   font: 300 14px/20px "Poppins", sans-serif;
-  color: #777777;
+  color: #020202;
   vertical-align: middle;
   padding-bottom: 12px;
   display: inline-block;
@@ -1250,7 +1250,7 @@ button:focus {
 .blog_details h2 {
   font-size: 24px;
   line-height: 36px;
-  color: #222222;
+  color: #020202;
   font-weight: 600;
   -webkit-transition: all 0.3s linear;
   -o-transition: all 0.3s linear;
@@ -1269,7 +1269,7 @@ button:focus {
   font-size: 14px;
   line-height: 36px;
   display: inline-block;
-  color: #222222;
+  color: #020202;
   font-weight: 500;
   padding: 0px 30px;
   background: #fff;
@@ -1420,7 +1420,7 @@ button:focus {
 .blog_right_sidebar .post_category_widget .cat-list li a {
   font-size: 14px;
   line-height: 20px;
-  color: #777;
+  color: #080808;
 }
 
 .blog_right_sidebar .post_category_widget .cat-list li a p {
@@ -1611,7 +1611,7 @@ button:focus {
 }
 
 .single-post-area .social-links li a:hover {
-  color: #222222;
+  color: #050505;
 }
 
 .single-post-area .blog_details {
@@ -1661,7 +1661,7 @@ button:focus {
 .single-post-area .navigation-area h4 {
   font-size: 18px;
   line-height: 25px;
-  color: #222222;
+  color: #070707;
   font-weight: 600;
 }
 
@@ -1766,7 +1766,7 @@ button:focus {
 }
 
 .comments-area a {
-  color: #222222;
+  color: #070707;
 }
 
 .comments-area .comment-list {
@@ -1871,7 +1871,7 @@ button:focus {
   border-radius: 0px;
   width: 100%;
   font-size: 14px;
-  color: #777777;
+  color: #030303;
   border: 1px solid transparent;
 }
 
@@ -1888,25 +1888,25 @@ button:focus {
 .comment-form ::-webkit-input-placeholder {
   /* Chrome/Opera/Safari */
   font-size: 13px;
-  color: #777;
+  color: #0a0a0a;
 }
 
 .comment-form ::-moz-placeholder {
   /* Firefox 19+ */
   font-size: 13px;
-  color: #777;
+  color: #0a0a0a;
 }
 
 .comment-form :-ms-input-placeholder {
   /* IE 10+ */
   font-size: 13px;
-  color: #777;
+  color: #080808;
 }
 
 .comment-form :-moz-placeholder {
   /* Firefox 18- */
   font-size: 13px;
-  color: #777;
+  color: #070707;
 }
 
 .comment-form .primary-btn {
@@ -1981,7 +1981,7 @@ button:focus {
 .contact_form .form-group .form-control {
   font-size: 13px;
   line-height: 26px;
-  color: #999;
+  color: #050505;
   border: 1px solid #eeeeee;
   font-family: "Poppins", sans-serif;
   border-radius: 0px;
@@ -2449,7 +2449,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .typography h1, .typography h2, .typography h3, .typography h4, .typography h5, .typography h6 {
-  color: #777777;
+  color: #070707;
 }
 
 .button-area {
@@ -2898,7 +2898,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .ordered-list-roman li span {
   font-weight: 300;
-  color: #777777;
+  color: #0a0a0a;
 }
 
 .single-input {
@@ -2928,7 +2928,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .input-group-icon .icon i {
-  color: #797979;
+  color: #0a0a0a;
 }
 
 .input-group-icon .single-input {
@@ -3570,7 +3570,7 @@ h1, h2, h3, h4, h5, h6 {
 .single-footer-widget ul li a {
   line-height: 25px;
   display: inline-block;
-  color: #777;
+  color: #080808;
   -webkit-transition: all 0.3s linear;
   -o-transition: all 0.3s linear;
   transition: all 0.3s linear;
@@ -3605,25 +3605,25 @@ h1, h2, h3, h4, h5, h6 {
   line-height: 30px;
   padding-right: 40px;
   height: 40px;
-  color: #999999;
+  color: #050505;
   background: transparent;
   padding-left: 20px;
 }
 
 .single-footer-widget input.placeholder {
-  color: #999999;
+  color: #0c0c0c;
 }
 
 .single-footer-widget input:-moz-placeholder {
-  color: #999999;
+  color: #070707;
 }
 
 .single-footer-widget input::-moz-placeholder {
-  color: #999999;
+  color: #070707;
 }
 
 .single-footer-widget input::-webkit-input-placeholder {
-  color: #999999;
+  color: #050505;
 }
 
 .single-footer-widget input:focus {
@@ -3674,7 +3674,7 @@ h1, h2, h3, h4, h5, h6 {
 .footer-bottom .footer-social a {
   font-size: 18px;
   line-height: 30px;
-  color: #82848f;
+  color: #050505;
   margin-left: 25px;
   -webkit-transition: all 0.3s linear;
   -o-transition: all 0.3s linear;
