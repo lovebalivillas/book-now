@@ -494,7 +494,7 @@ button:focus {
 /*----------------------------------------------------*/
 /*============= Start banner_area css =============*/
 .banner_area {
-  background: #04091e;
+  background: #f3f4f5;
   position: relative;
   z-index: 1;
 }
@@ -556,7 +556,7 @@ button:focus {
 
 /*============= End banner_area css =============*/
 .hotel_booking_table {
-  background: #04091e;
+  background: #f0f0f3;
   -webkit-box-align: center;
   -ms-flex-align: center;
   align-items: center;
@@ -586,7 +586,7 @@ button:focus {
 }
 
 .book_tabel_item .form-group .input-group .form-control {
-  border: 1px solid #020202;
+  border: 1px solid #f5f2f2;
   background: transparent;
   border-radius: 0px;
   font-size: 13px;
