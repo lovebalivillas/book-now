@@ -91,7 +91,7 @@ body {
 }
 
 section {
-  background: #fff;
+  background: #68948E;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -882,7 +882,7 @@ button:focus {
 
 .faq .faq-list li {
   padding: 20px;
-  background: #fff;
+  background: #68948E;
   border-radius: 4px;
   position: relative;
 }
@@ -1131,7 +1131,7 @@ button:focus {
 
 /*========= blog_categorie_area css ===========*/
 .blog_categorie_area {
-  background: #f9f9ff;
+  background: #68948E;
   padding-top: 80px;
 }
 
@@ -3563,7 +3563,7 @@ h1, h2, h3, h4, h5, h6 {
 /*----------------------------------------------------*/
 /*============== footer-area css ===============*/
 .footer-area {
-  background: #04091e;
+  background: #68948E;
   padding: 142px 0px;
 }
 
