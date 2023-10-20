@@ -494,7 +494,7 @@ button:focus {
 /*----------------------------------------------------*/
 /*============= Start banner_area css =============*/
 .banner_area {
-  background: #f3f4f5;
+  background: #68948E;
   position: relative;
   z-index: 1;
 }
@@ -529,7 +529,7 @@ button:focus {
 }
 
 .banner_content {
-  color: #fff;
+  color: #f3f1f1;
   margin-bottom: 94px;
 }
 
